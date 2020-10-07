@@ -1,0 +1,7 @@
+{
+  "name": "itlApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
